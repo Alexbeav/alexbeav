@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Alexandros Mandravillis! 👋
 
-<!--
-**Alexbeav/alexbeav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Freelance Cloud Security Engineer | SRE | Network Security Architect
 
-Here are some ideas to get you started:
+I specialize in building secure, resilient cloud environments (AWS, Azure), applying best practices in cloud security, threat detection, and site reliability engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ Focus areas:
+
+- Cloud Infrastructure Security (Terraform, IAM, VPC Design)
+
+- Monitoring and Threat Detection (CloudTrail, GuardDuty, SIEM)
+
+- Incident Response Playbooks and Resilience Engineering
+
+🌍 Available for freelance/contract opportunities
+
+📫 Let's connect: [LinkedIn Profile](https://www.linkedin.com/in/alexandros-mandravillis-8a92a744/) | 📧 [Email Address](amandravillis@outlook.com)
