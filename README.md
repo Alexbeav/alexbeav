@@ -1,17 +1,16 @@
-Hi, I'm Alexandros Mandravillis! 👋
+Cloud Security Architect with strong hands-on experience across GCP, AWS, and Azure, specializing in security automation, cloud hardening, and compliance at scale. I design and implement cloud security controls, close audit gaps, and help organizations move toward mature DevSecOps practices with Terraform, CI/CD security, and Zero Trust principles.
 
-🚀 Freelance Cloud Security Engineer | SRE | Network Security Architect
+My recent work includes leading GCP security posture improvements at Urban Sports Club (post-acquisition), remediating 600+ Vanta controls, building reusable Terraform guardrails (flow logs, SQL monitoring, IAM conditions), and aligning multi-team processes across SRE, Platform, and Compliance. I focus on practical, scalable solutions that improve visibility, reduce risk, and create long-term maintainable security baselines in cloud environments.
 
-I specialize in building secure, resilient cloud environments (AWS, Azure), applying best practices in cloud security, threat detection, and site reliability engineering.
+I bring a hybrid background across cloud engineering, security architecture, and DevSecOps, plus international experience across Europe and North America.
 
-🛡️ Focus areas:
+Key Skills:
+• Cloud Security: GCP (primary), AWS, Azure
+• DevSecOps: Terraform, CI/CD governance, GitHub security automation
+• Compliance: Vanta, ISO 27001, SOC2 evidence automation
+• Architecture: IAM, network segmentation, org-level guardrails
+• Operations: Security posture management, logging pipelines, threat surface reduction
+• Delivery: Presales to implementation, cross-team alignment, technical leadership
 
-- Cloud Infrastructure Security (Terraform, IAM, VPC Design)
-
-- Monitoring and Threat Detection (CloudTrail, GuardDuty, SIEM)
-
-- Incident Response Playbooks and Resilience Engineering
-
-🌍 Available for freelance/contract opportunities
-
-📫 Let's connect: [LinkedIn Profile](https://www.linkedin.com/in/alexandros-mandravillis-8a92a744/) | 📧 [Email Address](amandravillis@outlook.com)
+Open to:
+Cloud Security Architect, DevSecOps Architect, Platform Security, GCP Security, and related contract or full-time roles across EU/UK (remote-first).
