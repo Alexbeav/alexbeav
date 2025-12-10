@@ -5,7 +5,7 @@ My recent work includes leading GCP security posture improvements at Urban Sport
 I bring a hybrid background across cloud engineering, security architecture, and DevSecOps, plus international experience across Europe and North America.
 
 Key Skills:
-• Cloud Security: GCP (primary), AWS, Azure
+• Cloud Security: GCP, AWS, Azure
 • DevSecOps: Terraform, CI/CD governance, GitHub security automation
 • Compliance: Vanta, ISO 27001, SOC2 evidence automation
 • Architecture: IAM, network segmentation, org-level guardrails
